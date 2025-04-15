@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
-import Buttons from "./buttons";
+import Buttons from "./Buttons";
 import Text from "./Text";
 
 function App() {
